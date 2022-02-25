@@ -10,7 +10,7 @@
 
 * Pythonプログラム: RNN_COVID.ipynb
 
-  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utokyo-qsw/joint-seminar-dev/blob/22203/22203/RNN_COVID.ipynb)
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utokyo-qsw/joint-seminar/blob/main/202203/RNN_COVID.ipynb)
  
   ↑このアイコンをクリックすると、Google Colabでノートブックが開きます。「Copy to  Drive (ドライブにコピー)」ボタンを押して、自分のGoogle Driveに保存してから実行してください
 

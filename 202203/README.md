@@ -13,6 +13,9 @@
   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utokyo-qsw/joint-seminar/blob/main/202203/RNN_COVID.ipynb)
  
   ↑このアイコンをクリックすると、Google Colabでノートブックが開きます。「Copy to  Drive (ドライブにコピー)」ボタンを押して、自分のGoogle Driveに保存してから実行してください
+  
+* 演習に使用するデータ: [confirmed_pivot.csv](confirmed_pivot.csv)
+
 
 
 

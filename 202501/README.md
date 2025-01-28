@@ -5,7 +5,7 @@
 ### 量子ゲート計算のテンソルネットワークシミュレーション
 
 * 講義資料
-  * テンソルネットワークを用いた量子回路シミュレーション (準備中)
+  * [テンソルネットワークを用いた量子回路シミュレーション](テンソルネットワークを用いた量子回路シミュレーション.pdf)
 * 演習資料
   * tensornetworkの使い方: [01\_tensornetworkの使い方.ipynb ![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utokyo-qsw/joint-seminar/blob/main/202501/01_tensornetwork%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9.ipynb)
   * comparatorのシミュレーション: [02\_comparatorのシミュレーション.ipynb ![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/utokyo-qsw/joint-seminar/blob/main/202501/02_comparator%E3%81%AE%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.ipynb)
